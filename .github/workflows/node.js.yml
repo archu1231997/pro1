@@ -7,7 +7,7 @@ name: CI/CD for Dev Environment
 on:
   push:
     branches: 
-      - main
+      - master
 
 jobs:
   build:
